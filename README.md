@@ -2,13 +2,12 @@
 <p align="center">created by <strong>ᴄᴏᴅᴇ ᴡɪᴛʜ sᴍ<strong></p>
 
 ## Note:
-- **The Bomber Only Works For Sri Lankan Numbers**
+- **The sm-tools Only Works For termux**
 - The Script requires working network connection to work.
-- No Balance Will Be Deducted For Using This Script To Send SMS.
 - Make Sure You Are Using Python3.
 - Do Not Use This To Harm Others.
-- This Script Is Only For Educational Purposes or to Prank.
-- **Developer Is Not Responsible For The Misuse Of Sl-Bomber**
+- This Script Is Only For Educational Purposes.
+- **Developer Is Not Responsible For The Misuse Of sm-tools**
 - **Your Usage Data Will Be Collected For Statistic Purposes**
 <br>
 
